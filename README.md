@@ -10,7 +10,7 @@
 
 **🛠 Tech Stack**
 - 💻 Java
-- 🌐 HTML | CSS | JavaScript
+- 🌐 HTML | CSS | JavaScript | TypeScript | React
 - 🛢 MySQL
 - 🔧 Git
 
