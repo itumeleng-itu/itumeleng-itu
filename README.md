@@ -19,7 +19,7 @@ I am a performance-driven developer who bridges the gap between complex backend 
 | **Frontend** | React, **Next.js 15**, React Native, Tailwind CSS, Redux |
 | **Backend & Cloud** | **Node.js**, **Supabase**, Appwrite, Firebase, **AWS (VPC, Lambda)** |
 | **Databases** | **PostgreSQL**, MySQL, NoSQL (DynamoDB) |
-| **Tools** | Git, Docker, Linux, Postman, Cursor AI |
+| **Tools** | Git, Linux, Postman, Cursor AI |
 
 ---
 
