@@ -33,7 +33,7 @@ I am a performance-driven developer who bridges the gap between complex backend 
 ### **📫 Connect with Me**
 
 * **Email:** [matomempaola@gmail.com](mailto:matomempaola@gmail.com)
-* **Portfolio:** (https://my-portfolio-alpha-nine-33.vercel.app/)
+* **Portfolio:** (https://matometjale.vercel.app/)
 * **LinkedIn:** [Matome Tjale](https://www.linkedin.com/in/matome-tjale-695b61210/)
 
 ---
