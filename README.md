@@ -5,7 +5,7 @@
 I am a performance-driven developer who bridges the gap between complex backend orchestration and high-performance user interfaces. With a strong foundation in **Java (OOP)** from my time as the **Best 2nd Year Learner at TUT**, I now specialize in building scalable, real-time ecosystems using **React Native**, **Node.js**, and **Supabase**.
 
 * **🔭 Current Focus:** Scaling **CourseFind.co.za**, a serverless platform helping South African students navigate higher education.
-* **🌱 Learning:** Mastered Cloud Architectures to build resilient, global-scale applications.
+* **🌱 Learning:**  Cloud Architectures to build resilient, global-scale applications.
 * **🏗️ Architecting:** Currently managing **monorepos** and complex state synchronization using **Redux Toolkit** to unify multi-platform ecosystems.
 * **⚡ Fun Fact:** *In medio stat virtus* — Virtue stands in the middle. I apply this balance to my code: finding the sweet spot between cutting-edge innovation and production-grade stability.
 
