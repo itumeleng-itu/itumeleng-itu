@@ -24,13 +24,6 @@
 
 ---
 
-### **🏆 Achievements**
-
-* **Academic Excellence:** Awarded Best 2nd Year Learner (Computer Science) at Tshwane University of Technology.
-* **Hackathon Winner:** 3rd Place at the Limpopo Varsity Hackathon (2025) for rapid mobile-first prototyping.
-
----
-
 ### **📫 Connect with Me**
 
 * **Email:** [matomempaola@gmail.com](mailto:matomempaola@gmail.com)
