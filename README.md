@@ -1,8 +1,8 @@
-## **Hi there 👋 I'm Matome Tjale (Itumeleng)**
+## **Hi there 👋 I'm Matome Tjale**
 
-**Full-Stack & Mobile Engineer | System Architect in Training**
+**Full-Stack & Mobile Engineer**
 
-I am a performance-driven developer who bridges the gap between complex backend orchestration and high-performance user interfaces. With a strong foundation in **Java (OOP)** from my time as the **Best 2nd Year Learner at TUT**, I now specialize in building scalable, real-time ecosystems using **React Native**, **Node.js**, and **Supabase**.
+**I bridge the gap between complex backend orchestration and high-performance user interfaces. With a rigorous foundation in Java (OOP) and Computer Science, I specialize in architecting scalable, real-time ecosystems that prioritize efficiency and security.**
 
 * **🔭 Current Focus:** Scaling **CourseFind.co.za**, a serverless platform helping South African students navigate higher education.
 * **🌱 Learning:**  Cloud Architectures to build resilient, global-scale applications.
