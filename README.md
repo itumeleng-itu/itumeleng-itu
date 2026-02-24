@@ -7,7 +7,7 @@
 * **🔭 Current Focus:** Scaling **CourseFind.co.za**, a serverless platform helping South African students navigate higher education.
 * **🌱 Learning:**  Cloud Architectures to build resilient, global-scale applications.
 * **🏗️ Architecting:** Currently managing **monorepos** and complex state synchronization using **Redux Toolkit** to unify multi-platform ecosystems.
-* **⚡ Fun Fact:** *In medio stat virtus* — Virtue stands in the middle. I apply this balance to my code: finding the sweet spot between cutting-edge innovation and production-grade stability.
+* **⚡ Fun Fact:** *In medio stat virtus* — Virtue stands in the middle. I apply this balance to my code: finding the perfect spot between cutting-edge innovation and production-grade stability.
 
 ---
 
